@@ -23,7 +23,7 @@
 
 ### Resultado esperado
 
-![Aparencia](paginapessoal.png)
+![Aparencia](pagina-pessoal.png)
 
 ***
 
